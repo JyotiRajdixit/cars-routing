@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cars-routing/static/css/main.5ba94fe9.chunk.css",
+    "main.js": "/cars-routing/static/js/main.d81624f3.chunk.js",
+    "main.js.map": "/cars-routing/static/js/main.d81624f3.chunk.js.map",
+    "runtime-main.js": "/cars-routing/static/js/runtime-main.7997c8b9.js",
+    "runtime-main.js.map": "/cars-routing/static/js/runtime-main.7997c8b9.js.map",
+    "static/js/2.83d22d1b.chunk.js": "/cars-routing/static/js/2.83d22d1b.chunk.js",
+    "static/js/2.83d22d1b.chunk.js.map": "/cars-routing/static/js/2.83d22d1b.chunk.js.map",
+    "static/js/3.fa992ffc.chunk.js": "/cars-routing/static/js/3.fa992ffc.chunk.js",
+    "static/js/3.fa992ffc.chunk.js.map": "/cars-routing/static/js/3.fa992ffc.chunk.js.map",
+    "index.html": "/cars-routing/index.html",
+    "static/css/main.5ba94fe9.chunk.css.map": "/cars-routing/static/css/main.5ba94fe9.chunk.css.map",
+    "static/js/2.83d22d1b.chunk.js.LICENSE.txt": "/cars-routing/static/js/2.83d22d1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7997c8b9.js",
+    "static/js/2.83d22d1b.chunk.js",
+    "static/css/main.5ba94fe9.chunk.css",
+    "static/js/main.d81624f3.chunk.js"
+  ]
+}
